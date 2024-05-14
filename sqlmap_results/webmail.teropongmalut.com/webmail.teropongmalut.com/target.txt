@@ -1,0 +1,1 @@
+https://webmail.teropongmalut.com?locale=ar (GET)  # /usr/bin/sqlmap -u https://webmail.teropongmalut.com --crawl=1 --random-agent --batch --output-dir /home/kali/Desktop/checker/sqlmap_results/webmail.teropongmalut.com

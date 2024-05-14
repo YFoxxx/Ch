@@ -1,0 +1,1 @@
+https://app.rajbhog.com?add-to-cart=8761 (GET)  # /usr/bin/sqlmap -u https://app.rajbhog.com --crawl=1 --random-agent --batch --output-dir /home/kali/Desktop/checker/sqlmap_results/app.rajbhog.com

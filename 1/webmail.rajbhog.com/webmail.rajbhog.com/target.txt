@@ -1,0 +1,1 @@
+https://webmail.rajbhog.com/?locale=ar (GET)  # /usr/bin/sqlmap -u https://webmail.rajbhog.com --crawl=1 --random-agent --batch --output-dir /home/kali/Desktop/checker/sqlmap_results/webmail.rajbhog.com

@@ -1,0 +1,1 @@
+https://cpanel.rajbhog.com/?locale=ar (GET)  # /usr/bin/sqlmap -u https://cpanel.rajbhog.com --crawl=1 --random-agent --batch --output-dir /home/kali/Desktop/checker/sqlmap_results/cpanel.rajbhog.com

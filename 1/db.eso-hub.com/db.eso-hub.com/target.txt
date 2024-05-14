@@ -1,0 +1,1 @@
+https://db.eso-hub.com/js/messages.php?l=en&v=5.2.0&lang=en (GET)  # /usr/bin/sqlmap -u https://db.eso-hub.com --crawl=1 --random-agent --batch --output-dir /home/kali/Desktop/checker/sqlmap_results/db.eso-hub.com

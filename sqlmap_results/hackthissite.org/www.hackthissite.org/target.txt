@@ -1,0 +1,1 @@
+https://www.hackthissite.org/forums/ucp.php?i=pm (GET)  # /usr/bin/sqlmap -u https://hackthissite.org --crawl=1 --random-agent --batch --output-dir /home/kali/Desktop/checker/sqlmap_results/hackthissite.org
